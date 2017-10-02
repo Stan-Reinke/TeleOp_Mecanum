@@ -45,6 +45,7 @@ public class TeleOp_Mecanum extends LinearOpMode {
             telemetry.addData("Front left drive speed  = ", hardware.frontLeftDrive);
             telemetry.addData("Back right drive speed  = ", hardware.backRightDrive);
             telemetry.addData("Back left drive speed   = ", hardware.backLeftDrive);
+            telemetry.update();
         }
     }
 }
