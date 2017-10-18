@@ -11,4 +11,4 @@ front left drive motor = fld
 
 back right drive motor = brd
 
-back left drive motor = bkd
+back left drive motor = bld
